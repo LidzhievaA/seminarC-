@@ -13,3 +13,17 @@ if (resultNumber ==0)
     Console.WriteLine("Кратно");
 else 
     Console.WriteLine($"Не кратно, остаток {resultNumber}");
+
+// bool resultNumber = number1%number2 == 0;
+// if (resultNumber) 
+//     Console.WriteLine("Кратно");
+// else 
+//     Console.WriteLine($"Не кратно, остаток {number1%number2}");
+
+
+// Через метод:
+// int Multiplcity(int numOne, numTwo)
+//      return numOne%numTwo;
+
+//int result = Multiplcity(int numOne, numTwo);
+//Console.WriteLine(result==0 ? "Кратно" : $"Не кратно, остаток {result}");
