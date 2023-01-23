@@ -6,7 +6,7 @@
 string ConvertDecToBin(int num)
 {
     string result = string.Empty;
-    while (num > 0)
+    while (num != 0)
     {
         result = num % 2 + result;
         num = num / 2;
