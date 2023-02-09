@@ -1,0 +1,15 @@
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/bin/Debug/net6.0/task67
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/bin/Debug/net6.0/task67.deps.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/bin/Debug/net6.0/task67.runtimeconfig.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/bin/Debug/net6.0/task67.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/bin/Debug/net6.0/task67.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.csproj.AssemblyReference.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.AssemblyInfoInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.AssemblyInfo.cs
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.csproj.CoreCompileInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/refint/task67.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/task67.genruntimeconfig.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/Seminar6C/task67/obj/Debug/net6.0/ref/task67.dll
